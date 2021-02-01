@@ -2,3 +2,4 @@ Free to use, modify and distribute
 
 just make a .env file with a token and prefix, you can copy individual code for ban/mute/kick etc
 
+By defult prefix = ?

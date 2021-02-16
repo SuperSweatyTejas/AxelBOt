@@ -1,0 +1,7 @@
+// copy and paste this into index.js
+
+const chalk = require('chalk');
+console.log(chalk.blue('Hello world!'));
+ client.on('ready', () => {
+console.log(`${chalk.red(client.user.tag)} ${chalk.blue('Logged In.')}`)
+ })
